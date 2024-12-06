@@ -1,0 +1,7 @@
+[project]
+name = "web3py-favourites-cu"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["vyper>=0.4.0", "web3>=7.6.0", "python-dotenv>=1.0.1"]
